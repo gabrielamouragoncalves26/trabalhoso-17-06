@@ -1,0 +1,7 @@
+<resources>
+    <string name="name">AutonomiaTanque</string>
+    <string name="Litro">Tanque (total litro)</string>
+    <string name="consumoM"> Consumo(km/l)</string>
+    <string name="Calcular"> Calcular </string>
+    <string name="lAtual"> LitroAtual</string>
+    </resources>
